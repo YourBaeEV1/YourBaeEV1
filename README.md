@@ -1,6 +1,6 @@
 ### Hi YB ☄ ☄ ☄
 
-!(/3.jpg)
+![foto ganteng](/download.jpg)
 <!--
 **YourBaeEV1/YourBaeEV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
